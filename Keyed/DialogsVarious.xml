@@ -125,16 +125,16 @@
   <BuyPriceDesc>Preço que pagas por isto.</BuyPriceDesc>
   <SellPriceDesc>Preço que recebes por vender isto.</SellPriceDesc>
   <PriceTypeDesc>Por este item, o preço é {0}.</PriceTypeDesc>
-  <ColonyCount>Qual a quantidade deste item que a colónia tem pronto para trocar.\n\nSó podes vender itens a vendedores orbitais se estiverem ao ar livre e perto de um farol de trocas orbital.</ColonyCount>
-  <TraderCount>Quantos deste item o vendedor tem para trocar.</TraderCount>
+  <ColonyCount>Qual a quantidade deste item que a colónia tem pronto para trocar.\n\nSó podes vender itens a comerciantes orbitais se estiverem ao ar livre e perto de um farol de trocas orbital.</ColonyCount>
+  <TraderCount>Quantos deste item o comerciante tem para trocar.</TraderCount>
   <AcceptButton>Aceitar</AcceptButton>
   <ResetButton>Resetar</ResetButton>
   <CancelButton>Cancelar</CancelButton>
   <YourTradeableSilver>A tua prata negociável: {0}</YourTradeableSilver>
   <YourTradeableSilverTip>Só podes efetuar trocas com a prata que está perto de um farol de trocas orbital e ao ar livre.</YourTradeableSilverTip>
-  <TraderHasNoMore>O vendedor já não tem mais.</TraderHasNoMore>
+  <TraderHasNoMore>O comerciante já não tem mais.</TraderHasNoMore>
   <ColonyHasNoMore>Não há mais para vender.</ColonyHasNoMore>
-  <TraderWillNotTrade>O vendedor não quer trocar esse item.</TraderWillNotTrade>
+  <TraderWillNotTrade>O comerciante não quer trocar esse item.</TraderWillNotTrade>
   
   <!-- Comms -->
   <SocialSkillIs>Habilidade social: {0}</SocialSkillIs>
