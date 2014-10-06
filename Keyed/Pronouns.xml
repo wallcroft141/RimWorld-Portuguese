@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Prohis>dele</Prohis>
-  <Proher>dela</Proher>
-  <ProhisCap>Dele</ProhisCap>
-  <ProherCap>Dela</ProherCap>
+  <Prohis>seu</Prohis>
+  <Proher>sua</Proher>
+  <ProhisCap>Seu</ProhisCap>
+  <ProherCap>Sua</ProherCap>
 
   <ProhimObj>a ele</ProhimObj>
   <ProherObj>a ela</ProherObj>
