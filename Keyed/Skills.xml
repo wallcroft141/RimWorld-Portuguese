@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+e3<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>Level</Level>
-  <ProgressToNextLevel>Progresso para o próximo level</ProgressToNextLevel>
+  <Level>Nível</Level>
+  <ProgressToNextLevel>Progresso para o próximo nível</ProgressToNextLevel>
   <Passion>Entusiasmo</Passion>
   <PassionNone>Nenhum (aprende {0}x)</PassionNone>
   <PassionMinor>Interessado (aprende {0}x)</PassionMinor>
-  <PassionMajor>Fissurado (aprende {0}x)</PassionMajor>
-  <EffectsAtLevel>Efeito no level {0}</EffectsAtLevel>
+  <PassionMajor>Ardente (aprende {0}x)</PassionMajor>
+  <EffectsAtLevel>Efeito no nível {0}</EffectsAtLevel>
+  <SkillMax>MAXÍMO</SkillMax>
   
   
 
@@ -22,8 +23,8 @@
   <Skill8>Profissional</Skill8>
   <Skill9>Profissional especializado</Skill9>
   <Skill10>Especialista</Skill10>
-  <Skill11>Especialista vigoroso</Skill11>
-  <Skill12>Especialista manjador</Skill12>
+  <Skill11>Especialista Determinado</Skill11>
+  <Skill12>Especialista Extra Determinado</Skill12>
   <Skill13>Mestre</Skill13>
   <Skill14>Mestre vigoroso</Skill14>
   <Skill15>Mestre classe-Planeta</Skill15>
