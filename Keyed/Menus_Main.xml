@@ -77,7 +77,7 @@
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Seleciona o local de aterragem</SelectLandingSite>
   <SelectSite>Seleciona o local</SelectSite>
-  <MustSelectLandingSite>Por favor seleciona um local de aterragem.<MustSelectLandingSite>
+  <MustSelectLandingSite>Por favor seleciona um local de aterragem.</MustSelectLandingSite>
   <CannotLandBiome>Não podes aterrar neste bioma: {0}</CannotLandBiome>
   <WorldRenderMode>Modo</WorldRenderMode>
   <WorldRenderModeFull>Total</WorldRenderModeFull>
