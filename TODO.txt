@@ -1,0 +1,2 @@
+Compare the DefLinked files with the latest DefInjected files
+Typos/Grammar mistakes
