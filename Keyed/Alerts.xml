@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClickToJumpToProblem>Clica para ir ao problema</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Clica para ir ao problema</ClickToJumpToProblem>
 
 	<AlertNeedStockpile>Necessita de Estoque</AlertNeedStockpile>
 	<AlertNeedStockpileDesc>Os teus colonos necessitam de um lugar para guardar itens. Designa um ESTOQUE para eles guardarem coisas.\n\n Encontra o Estoque na secção ZONAS no menu ARCHITETO no canto inferior-esquerdo.</AlertNeedStockpileDesc>
