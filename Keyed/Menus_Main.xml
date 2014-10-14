@@ -108,7 +108,7 @@
   <LastNameDesc>Sobrenome da personagem.\n\nSó é mostrado em alguns menus.</LastNameDesc>
   <Randomize>Baralhar</Randomize>
   <AgeIndicator>idade {0}</AgeIndicator>
-  <Backstory>Passado da personagem</Backstory>
+  <Backstory>Passado</Backstory>
   <IncapableOf>Incapaz de</IncapableOf>
   <Traits>Feições</Traits>
   <TraitsDoNothing>Feições são apenas partes engraçadas de história; a maior parte não faz nada. Isto irá mudar em versões futuras.</TraitsDoNothing>
