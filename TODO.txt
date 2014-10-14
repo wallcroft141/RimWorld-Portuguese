@@ -1,2 +1,6 @@
-Compare the DefLinked files with the latest DefInjected files
+DefInjected:
+ -ThoughtDef
+ -StatDef
+ -SpecialThingFilterDef
+ 
 Typos/Grammar mistakes
