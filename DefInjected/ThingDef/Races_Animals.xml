@@ -4,19 +4,19 @@
     <!-- ============================ Animals ========================== -->
     
     <Muffalo.label>muffalo</Muffalo.label>
-    <Muffalo.description>A large herding herbivore descended from buffalo and adapted for some exotic environment. Peaceful unless disturbed.</Muffalo.description>
-    <Muffalo_Leather.label>muffalo leather</Muffalo_Leather.label>
-    <Muffalo_Meat.label>muffalo meat</Muffalo_Meat.label>
+    <Muffalo.description>Um grande herbívoro de manada descendente dos búfalos e adaptado para ambientes exóticos. Pacífico até ser perturbado.</Muffalo.description>
+    <Muffalo_Leather.label>couro de muffalo</Muffalo_Leather.label>
+    <Muffalo_Meat.label>carne de muffalo</Muffalo_Meat.label>
     
-    <Deer.label>deer</Deer.label>
-    <Deer.description>A medium-sized herding herbivore. Generally peaceful unless disturbed.</Deer.description>
-    <Deer_Leather.label>deer leather</Deer_Leather.label>
-    <Deer_Meat.label>deer meat</Deer_Meat.label>
+    <Deer.label>veado</Deer.label>
+    <Deer.description>Um herbívoro de tamanho médio. Geralmente pacíficos até serem perturbados.</Deer.description>
+    <Deer_Leather.label>couro de veado</Deer_Leather.label>
+    <Deer_Meat.label>carne de veado</Deer_Meat.label>
     
-    <Squirrel.label>squirrel</Squirrel.label>
-    <Squirrel.description>One of the many hardy, versatile rodent species that follows humankind everywhere it spreads.</Squirrel.description>
-    <Squirrel_Leather.label>squirrel leather</Squirrel_Leather.label>
-    <Squirrel_Meat.label>squirrel meat</Squirrel_Meat.label>
+    <Squirrel.label>esquilo</Squirrel.label>
+    <Squirrel.description>Uma das muitas espécies de roedores versáteis que segue a humanidade para todo o lado.</Squirrel.description>
+    <Squirrel_Leather.label>couro de esquilo</Squirrel_Leather.label>
+    <Squirrel_Meat.label>carne de esquilo</Squirrel_Meat.label>
     
     <WildBoar.label>wild boar</WildBoar.label>
     <WildBoar.description>Although considered impure by some cultures, this hairy ancestor of the domesticated pig is prized for the gamey flavor of its meat.</WildBoar.description>
