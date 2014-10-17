@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<DoorPowered.label>Porta automática</DoorPowered.label>
-	<DoorPowered.description>Sela salas separadas. Automáticas permitem que as pessoas se movem através da porta, sem diminuir a velocidade.</DoorPowered.description>
+    <!--========================= Doors =============================-->
 	
-	<DoorSimple.label>Porta simples</DoorSimple.label>
-	<DoorSimple.description>Sela salas separadas. Devem ser manualmente fechadas e abertas, diminuindo a velocidade.</DoorSimple.description>
+	<Door.label>Porta</Door.label>
+	<Door.description>Divide salas/quartos. Devem ser manualmente fechadas e abertas, atrasando as pessoas.</Door.description>
 	
-	<WallMetal.label>Parede de metal</WallMetal.label>
-	<WallMetal.description>Uma parede feita de metal.</WallMetal.description>
-	<WallStone.label>Parede de pedra</WallStone.label>
-	<WallStone.description>Uma parede feita de pedra. Isto dura por anos. Ela não pode ser queimada e nem transmite energia.</WallStone.description>
+	<Autodoor.label>Porta automática</Autodoor.label>
+	<Autodoor.description>Divide salas/quartos. Portas automáticas permitem que as pessoas as usem sem perder velocidade a velocidade.</Autodoor.description>
 	
-	<PowerConduit.label>Condutor elétrico</PowerConduit.label>
-	<PowerConduit.description>Cabo de condução elétrica.</PowerConduit.description>
+    <!--========================= Walls =============================-->
 	
-	<Sandbags.label>Saco de areia</Sandbags.label>
-	<Sandbags.description>Protege contra tiros de armas.</Sandbags.description>
+	<Wall.label>Parede</Wall.label>
+	<Wall.description>Uma parede intransitável. Capaz de aguentar com um telhado</Wall.description>
+	
+	<Wallconduit.label>Parede conduta</Wallconduit.label>
+	<Wallconduit.description>Uma parede com transmissão de energia integrada.</Wallconduit.description>
+	
 	
 
 </LanguageData>
