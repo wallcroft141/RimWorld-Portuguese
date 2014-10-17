@@ -33,9 +33,9 @@
     <MineableGold.description>Mina isto para obteres ouro.</MineableGold.description>
     
     <MineablePlasteel.label>plasteel compactado</MineablePlasteel.label>
-    <MineablePlasteel.description>Ancient compacted rubble rich in plasteel.</MineablePlasteel.description>
+    <MineablePlasteel.description>Cascalho antigo compactado rico em plasteel.</MineablePlasteel.description>
 
-    <SteamGeyser.label>steam geyser</SteamGeyser.label>
-    <SteamGeyser.description>Natural steam source.</SteamGeyser.description>
+    <SteamGeyser.label>géiser</SteamGeyser.label>
+    <SteamGeyser.description>Fonte natural de vapor.</SteamGeyser.description>
     
 </LanguageData>
