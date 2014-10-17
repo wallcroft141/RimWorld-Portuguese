@@ -30,8 +30,8 @@
   <ConceptText_Mining>Podes designar onde minar usando o MENU ARQUITETO.\n\nMinar MINERAIS dá METAL.\n\nMinar PEDRA não dá nada.</ConceptText_Mining>
 
   <ConceptText_WorkOverview1>Podes estabelecer a configuração de trabalho de cada colono na VISÃO GERAL no canto inferior direito do ecrã.\n\nEles irão sempre fazer o trabalho de maior prioridade que estiver disponível.</ConceptText_WorkOverview1>
-  <ConceptText_WorkOverview2>Colonists won't do jobs they don't have set.\n\nIf nobody has a certain work type assigned, it will never get done.</ConceptText_WorkOverview2>
-
+  <ConceptText_WorkOverview2>Colonos não farão trabalhos que não estão estejam designados a fazer.\n\nSe ninguém tem um certo tipo de trabalho designado, esse trabalho nunca será feito.</ConceptText_WorkOverview2>
+  
   <ConceptText_EquippingWeapons>Para que o teu colono equipe uma arma, selecciona-o e clica com o botão direito do rato na arma.\n\nHá armas no chão perto da tua localização inicial.</ConceptText_EquippingWeapons>
 
   <ConceptText_HomeRegion>As REGIÕES CASA dizem aos tues colonos quais áreas para limpar e onde apagar fogos.\n\nDefine uma REGIÃO CASA dentro da categoria Zonas no menu Arquiteto.</ConceptText_HomeRegion>
