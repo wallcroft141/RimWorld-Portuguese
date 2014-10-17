@@ -170,6 +170,7 @@
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[2].description</path>
 		<trans>A mente de NAME está desfasada das outras. HECAP não é assim tanto afectado por fenómenos psíquicos</trans>
+	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].label</path>
 		<trans>mentalmente surdo</trans>
