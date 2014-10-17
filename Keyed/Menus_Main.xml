@@ -86,7 +86,7 @@
   <WorldRenderModeFertility>Fertilidade</WorldRenderModeFertility>
   <WorldRenderModeRainfall>Precipitação</WorldRenderModeRainfall>
   <WorldRenderModeBiomes>Biomas</WorldRenderModeBiomes>
-  <BiomeNotImplemented>bioma não implementado</BiomeNotImplemented>
+  <BiomeNotImplemented>(bioma) não implementado</BiomeNotImplemented>
   <BaseAlreadyThere>{0} já tem uma base aí.</BaseAlreadyThere>
   <Biome>Bioma</Biome>
   <Terrain>Terreno</Terrain>
