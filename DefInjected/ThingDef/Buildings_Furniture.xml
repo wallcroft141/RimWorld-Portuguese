@@ -17,20 +17,8 @@
     
     <!--======================= Basic domestic furniture ==============================-->
 	
-	<PlantPot.label>Vaso de planta</PlantPot.label>
-	<PlantPot.description>Culvite plantas decorativas neste vaso.</PlantPot.description>
-
-	<ResearchBench.label>Bancada de pesquisas</ResearchBench.label>
-	<ResearchBench.description>Pesquisadores trabalham aqui para descobrir coisas novas.</ResearchBench.description>
-
-	<EquipmentRack.label>Prateleira</EquipmentRack.label>
-	<EquipmentRack.description>Colonos transportam os equipamentos aqui para armazenamento.</EquipmentRack.description>
-
-	<OrbitalTradeBeacon.label>Comunicador orbital</OrbitalTradeBeacon.label>
-	<OrbitalTradeBeacon.description>Necessário para negociações orbitais. Você só pode vender produtos que estão perto de um comunicador orbital e que não esteja sob um telhado. Os Comerciantes orbitais também irão descarregar os recursos perto deste dispositivo.</OrbitalTradeBeacon.description>
- 
-	<Chair.label>Cadeira</Chair.label>
-	<Chair.description>Pessoas sentam aqui.</Chair.description>
+	<Stool.label>banco</Stool.label>
+	<Stool.description>Pessoas sentam aqui.</Stool.description>
 
 	<TableShort.label>Mesa (curta)</TableShort.label>
 	<TableShort.description>As pessoas comem sobre as mesas quando as cadeiras são colocadas de frente para elas.</TableShort.description>
@@ -38,10 +26,23 @@
 	<TableLong.label>Mesa (longa)</TableLong.label>
 	<TableLong.description>As pessoas comem sobre as mesas quando as cadeiras são colocadas de frente para elas.</TableLong.description>
 
-	<StandingLamp.label>Lâmpada vertical</StandingLamp.label>
-	<StandingLamp.description>Uma lâmpada com suporte para iluminar o ambiente.</StandingLamp.description>
+	<!-- ======================== Lighting ======================= -->
 
-	<SunLamp.label>Lâmpada solar</SunLamp.label>
-	<SunLamp.description>Ilumina uma área o suficiente para o cultivo.</SunLamp.description>
+	<StandingLamp.label>Candeeiro vertical</StandingLamp.label>
+	<StandingLamp.description>Um candeeiro com suporte para iluminar uma área.</StandingLamp.description>
 	
+	<StandingLamp_Red.label>Candeeiro vertical (vermelho)</StandingLamp_Red.label>
+    <StandingLamp_Red.description>Um candeeiro com suporte para iluminar a vermelho uma área.</StandingLamp_Red.description>
+    
+    <StandingLamp_Green.label>Candeeiro vertical (verde)</StandingLamp_Green.label>
+    <StandingLamp_Green.description>Um candeeiro com suporte para iluminar a verde uma área.</StandingLamp_Green.description>
+    
+    <StandingLamp_Blue.label>Candeeiro vertical (azul)</StandingLamp_Blue.label>
+    <StandingLamp_Blue.description>Um candeeiro com suporte para iluminar a azul uma área.</StandingLamp_Blue.description>
+	
+	<!--============================== Storage ==============================-->
+
+	<EquipmentRack.label>Prateleira</EquipmentRack.label>
+	<EquipmentRack.description>Colonos transportam os equipamentos aqui para armazenamento.</EquipmentRack.description>
+
 </LanguageData>
