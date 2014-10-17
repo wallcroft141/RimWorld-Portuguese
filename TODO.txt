@@ -1,3 +1,1 @@
-DefInjected:
- -ThingDef folder
  Typos/Grammar mistakes
