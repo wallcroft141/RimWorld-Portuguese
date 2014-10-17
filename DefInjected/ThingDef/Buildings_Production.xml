@@ -31,7 +31,7 @@
     
     <!-- ========== Hydroponics ==============-->
     
-    <HydroponicsBasin.label>hydroponics basin</HydroponicsBasin.label>
-    <HydroponicsBasin.description>For growing food. Hydroponics basins grow a few plants quickly.</HydroponicsBasin.description>
+    <HydroponicsBasin.label>base hidropónica</HydroponicsBasin.label>
+    <HydroponicsBasin.description>Para cultivar alimentos. Bases hidropónicas aceleram o crescimento das plantas.</HydroponicsBasin.description>
     
 </LanguageData>
