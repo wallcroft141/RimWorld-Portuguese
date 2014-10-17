@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <SunLamp.label>sun lamp</SunLamp.label>
-    <SunLamp.description>Lights an area brightly enough to grow crops.</SunLamp.description>
+    <SunLamp.label>candeeiro solar</SunLamp.label>
+    <SunLamp.description>Ilumina uma área tão claramente que permite que as colheitas crescam.</SunLamp.description>
     
-    <OrbitalTradeBeacon.label>orbital trade beacon</OrbitalTradeBeacon.label>
-    <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods that are near an orbital trade beacon and not under a roof. Orbital traders will also drop goods near this.</OrbitalTradeBeacon.description>
+    <OrbitalTradeBeacon.label>farol de comércio orbital</OrbitalTradeBeacon.label>
+    <OrbitalTradeBeacon.description>Necessário para comércio orbital. Só podes vender bens que estejam perto de um farol de comércio orbital e ao ar livre. Faróis de comércio orbital também descarregam mercadorias perto deles.</OrbitalTradeBeacon.description>
     
-    <ResearchBench.label>research bench</ResearchBench.label>
-    <ResearchBench.description>Researchers work here to discover new things.</ResearchBench.description>
+    <ResearchBench.label>bancada de pesquisa</ResearchBench.label>
+    <ResearchBench.description>Investigadores trabalham aqui para discubrir novas coisas.</ResearchBench.description>
     
-    <CommsConsole.label>comms console</CommsConsole.label>
-    <CommsConsole.description>Communicate with nearby ships here for negotiation and trade.</CommsConsole.description>
+    <CommsConsole.label>consola de comunicação</CommsConsole.label>
+    <CommsConsole.description>Comunica com naves próximas para negociar e comercializar.</CommsConsole.description>
     
-    <Grave.label>grave</Grave.label>
-    <Grave.description>Place the dead in graves to give them a decent final resting place.</Grave.description>
+    <Grave.label>cova</Grave.label>
+    <Grave.description>Coloca os mortos em covas para lhes darem um sítio de descanso decente.</Grave.description>
     
-    <FertilizerPump.label>fertilizer pump</FertilizerPump.label>
-    <FertilizerPump.description>Slowly expands a field of growable soil around itself.</FertilizerPump.description>
+    <FertilizerPump.label>bomba fertilizante</FertilizerPump.label>
+    <FertilizerPump.description>Expande lentamente um campo de solo fértil à sua volta.</FertilizerPump.description>
     
 </LanguageData>
