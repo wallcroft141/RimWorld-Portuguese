@@ -51,7 +51,7 @@
   <ResearchMenuWithoutBench>Até que construas uma MESA De PESQUISA, os teus colonos não serão capazes de pesquisar nada.\n\nNo entanto, podes na mesma ver e escolher os teus projectos de pesquisa agora.</ResearchMenuWithoutBench>
   
   <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>AVISO: a performance pode diminuir com mapas maiores a não ser que o teu computador seja bastante bom.\n\nSe possuis uma máquina fraca, escolhe mapas pequenos.\n\nMapas de tamanho Extremo nao foram testados e quase de certeza haverá problemas de desempenho.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>AVISO: a performance pode diminuir com mapas maiores a não ser que o teu computador seja bastante bom.\n\nSe possuis uma máquina fraca, escolhe mapas pequenos.\n\nMapas de tamanho Extremo não foram testados e quase de certeza haverá problemas de desempenho.</MapSizePerformanceWarning>
   <MapSize>Tamanho do mapa</MapSize>
   <MapSizeDesc>{0}x{0} ({1} quadrantes)</MapSizeDesc>
   <MapSizeSmall>Pequeno</MapSizeSmall>
