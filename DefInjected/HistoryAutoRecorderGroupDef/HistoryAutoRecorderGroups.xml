@@ -2,11 +2,12 @@
 <LanguageData>
     
     <Wealth.label>riqueza</Wealth.label>
-    
+    <Wealth.graphLabelY>quantidade</Wealth.graphLabelY>
+	
     <Population.label>população</Population.label>
-    
+    <Population.graphLabelY>colonos</Population.graphLabelY>
+	
     <ColonistMood.label>estado de espírito da colónia</ColonistMood.label>
-    
-  	  <!--<li>ColonistFear</li>-->
-    
+    <ColonistMood.graphLabelY>percentagem</ColonistMood.graphLabelY>
+	
 </LanguageData>

@@ -2,20 +2,21 @@
 <LanguageData>
     
     <Consciousness.label>consciência</Consciousness.label>
+	<Consciousness.labelMechanoids>Processamento de dados</Consciousness.labelMechanoids>
     
     <Sight.label>visão</Sight.label>
     
-    <Hearing.label>ouvindo</Hearing.label>
+    <Hearing.label>audição</Hearing.label>
     
-    <Moving.label>em movimento</Moving.label>
+    <Moving.label>movimento</Moving.label>
     
     <Manipulation.label>manipulação</Manipulation.label>
     
-    <Talking.label>conversando</Talking.label>
+    <Talking.label>conversar</Talking.label>
     
-    <Eating.label>comendo</Eating.label>
+    <Eating.label>comer</Eating.label>
     
-    <Breathing.label>respirando</Breathing.label>
+    <Breathing.label>respiração</Breathing.label>
     
     <BloodFiltration.label>filtragem do sangue</BloodFiltration.label>
     
