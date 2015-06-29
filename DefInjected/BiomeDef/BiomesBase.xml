@@ -4,10 +4,10 @@
   <!-- ======== Unlandable biomes ==========-->
   
 	<Ocean.label>Oceano</Ocean.label>
-	<Ocean.description>Ótimo para peixes - não tão ótimo para ti.</Ocean.description>
+	<Ocean.description>Ótimo para peixes - não tão ótimo para você.</Ocean.description>
 
 	<IceSheet.label>Glaciar</IceSheet.label>
-	<IceSheet.description>A superfície está coberta de quilómetros de gelo espesso. Não há acesso a solo or rocha, portanto não há plantas. Os únicos animais avistados aqui estão a migrar para outros lugares - ou terrivelmente perdidos</IceSheet.description>
+	<IceSheet.description>A superfície está coberta de quilómetros de gelo espesso. Não há acesso a solo ou rocha, portanto não há plantas. Os únicos animais avistados aqui estão a migrar para outros lugares - ou terrivelmente perdidos</IceSheet.description>
 
 
   <!-- ======== Buildable biomes ==========-->
@@ -31,7 +31,7 @@
   <!-- ======== Landable biomes (not implemented) ==========-->
 
 	<Tundra.label>Tundra</Tundra.label>
-	<Tundra.description>Estas planícies quase-geladas têm  poucas árvores e vegetação. Há poucos animais pequenos junto com manadas de outros de maior porte e seus predadores.</Tundra.description>
+	<Tundra.description>Estas planícies quase geladas têm  poucas árvores e vegetação. Há poucos animais pequenos junto com manadas de outros de maior porte e seus predadores.</Tundra.description>
   
 	<BorealForest.label>Taiga</BorealForest.label>
 	<BorealForest.description>Florestas nortenhas de árvores coníferas. Apesar dos invernos severos, as florestas boreais sustentam uma diversa população de pequenos e grandes animais</BorealForest.description>
